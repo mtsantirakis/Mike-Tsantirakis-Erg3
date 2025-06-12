@@ -1,0 +1,9 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --meta-analysis demo_PLINK_1.txt demo_PLINK_2.txt demo_PLINK_3.txt + logscale no-allele report-all
+
+Hostname: 192.168.1.8
+Working directory: 
+Error: File read failure.
+
+End time: Thu Jun 12 21:54:56 2025

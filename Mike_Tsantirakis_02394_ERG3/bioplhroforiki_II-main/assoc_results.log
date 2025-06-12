@@ -1,0 +1,11 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --assoc
+  --bfile toy_bin
+  --out assoc_results
+
+Hostname: 192.168.1.8
+Working directory: 
+Error: File read failure.
+
+End time: Thu Jun 12 21:54:40 2025
